@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **computer vision and audio analysis**
 
-- 👯 I’m have competed in [various Kaggle Competitions](https://github.com/layilon/Tools-POC-and-Sandbox/tree/main/Competition)
+- 👯 I have competed in [various data driven competitions](https://github.com/layilon/Tools-POC-and-Sandbox/tree/main/Competition)
 
-- 🤝 I’m looking for help with **API socket programming to various trading platforms**
+- 🤝 I’m looking for help with **API socket programming to various stock and crypto trading platforms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/layilon/Tools-POC-and-Sandbox](https://github.com/layilon/Tools-POC-and-Sandbox)
 
-- 💬 Ask me about **Azure, Python, Machine learning and AI**
+- 💬 Ask me about **Crypto, Stocks, Funds, Azure, Python, Machine learning and AI**
 
 - 📫 How to reach me **aaron_lam@outlook.com**
 
